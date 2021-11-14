@@ -1,6 +1,7 @@
 # Installation Guide for IntelliJ IDEA
 
 * Download IntelliJ IDEA from this [link](https://www.jetbrains.com/idea/download/#section=mac)
+* Choose Mac, Windows or Linux then download Community version
 
 ![step1](step1.png)
 
